@@ -1,3 +1,5 @@
+https://chatgpt.com/c/693136e6-e1f0-832e-9245-6f26005023ec
+
 Great — here is a **clean, production-ready directory structure** for your **Streamlit Multi-Speaker Transcription App** using **open HuggingFace libraries** (Whisper + SpeechBrain / pyannote).
 
 This structure supports:
