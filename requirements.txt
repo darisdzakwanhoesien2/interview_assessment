@@ -7,3 +7,5 @@ ffmpeg-python
 librosa
 numpy
 python-dotenv
+ffmpeg-python
+ffmpeg==1.4
