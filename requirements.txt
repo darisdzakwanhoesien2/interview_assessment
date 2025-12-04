@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+speechbrain
+pyannote.audio
+ffmpeg-python
+librosa
+numpy
+python-dotenv
